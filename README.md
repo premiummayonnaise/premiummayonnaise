@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @premiummayonnaise
-- 👀 I’m interested in automation and control system
-- 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on hmm dunno
-- 📫 How to reach me glorycomepls@gmail.com
+- 👀 I’m interested in STM32 and analog/AMS IC design
+- 🌱 I’m currently studying transistors and analog electronics
+- 💞️ I’m looking to collaborate with anyone
+- 📫 How to reach me dzakiandriansyah10@gmail.com
 
 <!---
 premiummayonnaise/premiummayonnaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
