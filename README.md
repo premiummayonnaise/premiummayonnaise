@@ -1,3 +1,7 @@
+
+![Elphelt Valentine](https://media.tenor.com/OnKsfqoYr9YAAAAi/elphelt-valentine-guilty-gear.gif)
+
+
 - 👋 Hi, I’m @premiummayonnaise
 - 👀 I’m interested in STM32 and analog/AMS IC design
 - 🌱 I’m currently learning advanced analog blocks and open-source EDA tools!
