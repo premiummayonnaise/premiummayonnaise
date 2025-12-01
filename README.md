@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://media.tenor.com/OnKsfqoYr9YAAAAi/elphelt-valentine-guilty-gear.gif" alt="Elphelt Valentine">
+  <img src="may-guilty-gear.gif" alt="May Guilty Gear">
 </p>
+
 
 - 👀 I’m interested in analog/AMS IC design and power-management integrated circuits
 I work on linear/switching voltage regulators and protection circuits plus IC layouting
