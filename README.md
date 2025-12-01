@@ -3,11 +3,11 @@
   <img src="https://media.tenor.com/OnKsfqoYr9YAAAAi/elphelt-valentine-guilty-gear.gif" alt="Elphelt Valentine">
 </p>
 
-- 👋 Hi, I’m @premiummayonnaise
 - 👀 I’m interested in analog/AMS IC design and power-management integrated circuits
-- 🌱 I’m currently learning advanced analog blocks and open-source EDA tools!
-- 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me dzakiandriansyah10@gmail.com
+I work on linear/switching voltage regulators and protection circuits plus IC layouting
+- Rail-to-Rail OTA, high-gain OTA, auxiliary OTA, voltage references, current mirrors, etc
+- My main approach is gm/id and specifications-driven design while ensuring robustness via stress-testing across PVT
+- Feel free to contact me dzakiandriansyah10@gmail.com
 
 
 
