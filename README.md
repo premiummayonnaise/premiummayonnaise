@@ -1,8 +1,8 @@
-- 👀 I’m interested in analog/AMS IC design and power-management integrated circuits
-I work on linear/switching voltage regulators and protection circuits plus IC layouting
-- Rail-to-Rail OTA, high-gain OTA, auxiliary OTA, voltage references, current mirrors, etc
-- My main approach is gm/id and specifications-driven design while ensuring robustness via stress-testing across PVT
-- Feel free to contact me dzakiandriansyah10@gmail.com
+👀 Analog / AMS IC Design — focus on PMICs
+Designing linear & switching regulators, protection circuits, and IC layouts.
+Experience with rail-to-rail OTAs, gain-boosted OTAs, voltage references, current mirrors, etc.
+Spec-driven design using gm/Id methodology with full PVT & reliability stress-testing.
+📬 Contact: dzakiandriansyah10@gmail.com
 
 
 <p align="center">
