@@ -1,7 +1,7 @@
 👀 Analog / AMS IC Design; focus on PMICs
-Designing linear & switching regulators, protection circuits, and IC layouts.
-Experience with rail-to-rail OTAs, gain-boosted OTAs, voltage references, current mirrors, etc.
-Spec-driven design using gm/Id methodology with full PVT & reliability stress-testing.
+- Designing linear & switching regulators, protection circuits, and IC layouts.
+- Experience with rail-to-rail OTAs, gain-boosted OTAs, voltage references, current mirrors, etc.
+- Spec-driven design using gm/Id methodology with full PVT & reliability stress-testing.
 📬 Contact: dzakiandriansyah10@gmail.com
 
 
