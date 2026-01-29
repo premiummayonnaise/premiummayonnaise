@@ -11,6 +11,9 @@
 </p>
 
 
+Side project:
+An engineering-themed essay using analog IC metaphors
+→ github.com/premiummayonnaise/analog-life-systems
 
 
 
