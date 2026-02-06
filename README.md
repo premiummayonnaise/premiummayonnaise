@@ -11,12 +11,6 @@
 </p>
 
 
-Side project:
-An engineering-themed essay using analog IC metaphors
-→ github.com/premiummayonnaise/analog-life-systems
-
-
-
 <!---
 premiummayonnaise/premiummayonnaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
