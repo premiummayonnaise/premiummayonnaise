@@ -3,12 +3,6 @@
 - Experience with rail-to-rail OTAs, gain-boosted OTAs, voltage references, current mirrors, etc.
 - Spec-driven design using gm/Id methodology with full PVT & reliability stress-testing.
 - Contact: dzakiandriansyah10@gmail.com
-- My daughter:
-
-
-<p align="center">
-  <img src="may-guilty-gear.gif" height="300" alt="May Guilty Gear">
-</p>
 
 
 <!---
